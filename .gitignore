@@ -49,3 +49,4 @@ src/main/api/.repository/
 workspace/.metadata/
 .mule/
 derby.log
+workspace/maven-project/activemq-data/
